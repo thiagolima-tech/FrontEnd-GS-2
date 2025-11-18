@@ -12,7 +12,7 @@ const Home = () =>{
             }
             <img className="absolute top-15 right-15" src={lightMode} alt="lightMode" />
 
-            <h1 className={`transform w-[765px] text-center text-white text-6xl md:text-8xl transition-all duration-200 ease-in-out ${isFocused ? 'opacity-0 -translate-y-4 scale-75' : 'opacity-100 translate-y-0'}`}>
+            <h1 className={`transform leading-tight w-[311px] md:w-[765px] text-center text-white text-[40px] md:text-8xl transition-all duration-200 ease-in-out ${isFocused ? 'opacity-0 -translate-y-4 scale-75' : 'opacity-100 translate-y-0'}`}>
                 Veja o futuro dos <span className="font-medium" style={{color: 'var(--roxo)'}}>profissionais</span>
             </h1>
 
