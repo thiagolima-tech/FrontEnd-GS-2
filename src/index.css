@@ -24,7 +24,11 @@
     background-color: rgb(29, 29, 67, 0.78);
 }
 
-/* Apply Raleway to headings */
+
 h1 {
     font-family: var(--Raleway);
+}
+
+p {
+    font-family: var(--Poppins);
 }
