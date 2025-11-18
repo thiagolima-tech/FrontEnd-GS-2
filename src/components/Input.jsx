@@ -1,11 +1,19 @@
 import { useState } from "react"
 
 
-const Input = ({onFocus, onChange, value}) =>{
+const Input = ({onFocus, onBlur, onChange, value}) =>{
 
     return (
-        <div className="flex w-full justify-center">
-            <input value={value} onChange={e => onChange(e.target.value)} onFocus={onFocus} className="border-2 border-white rounded-full my-10 placeholder:text-[#5E5E5E] p-5 w-[90%] md:w-[50%]" type="text" placeholder="Buscar"/>
+        <div className="w-full items-center flex justify-center">
+            <input
+                value={value}
+                onChange={e => onChange(e.target.value)}
+                onFocus={onFocus}
+                onBlur={onBlur}
+                className="border-2 border-white rounded-full placeholder:text-[#5E5E5E] mt-10 p-5 w-[70%] transition-all duration-200"
+                type="text"
+                placeholder="Buscar"
+            />
         </div>
     )
 }

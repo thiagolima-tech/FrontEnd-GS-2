@@ -1,9 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;700;800&display=swap');
 @import "tailwindcss";
 
 :root {
     --roxo: #7C4DFF;
     --roxo-ghost-botao: #9974FF;
-    --branco: #FFFFFF
+    --branco: #FFFFFF;
+}
+
+@theme {
+    --Poppins: "Poppins", sans-serif;
+    --Raleway: "Raleway", sans-serif;
 }
 
 .gradient-dark {
@@ -16,4 +22,9 @@
 
 .gradient-card-dark {
     background-color: rgb(29, 29, 67, 0.78);
+}
+
+/* Apply Raleway to headings */
+h1 {
+    font-family: var(--Raleway);
 }
