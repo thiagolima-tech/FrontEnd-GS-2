@@ -6,6 +6,7 @@ import ProConnectTexto from '../assets/ProConnectTexto.png';
 import ProConnectLogo from '../assets/ProConnectLogo.png';
 import SearchWait from "../components/SearchWait";
 import Card from "../components/Card";
+import personas from '../personas60.json';
 import iconeLogo from "../assets/IconeProConnect.png";
 
 const Home = () => {
@@ -48,7 +49,17 @@ const Home = () => {
             }
             {isFocused && <img className="absolute w-70 md:bottom-0 md:right-8 lg:right-15 mx-auto bottom-0 opacity-35 md:opacity-100" src={iconeLogo} alt="Icone Pro Connect" />}
 
-            <Card />
+            <div className="mt-10 w-full flex justify-center">
+                <div className="w-[90%] md:w-[80%]">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+                        { (personas || [])
+                            .filter(p => !search || String(p.nome || p.name || '').toLowerCase().includes(search.toLowerCase()))
+                            .map(p => (
+                                <Card key={p.id || p.nome} data={p} lightModeOn={lightModeOn} />
+                            ))}
+                    </div>
+                </div>
+            </div>
 
         </div>
     )
