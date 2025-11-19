@@ -2,17 +2,12 @@ import React, { useState } from 'react';
 import iconSearch from '../assets/iconSearch.png';
 
 
-const Input = ({ onFocus, onBlur, onChange, value }) => {
+const Input = ({ onFocus, onChange, value }) => {
     const [focused, setFocused] = useState(false);
 
     const handleFocus = (e) => {
         setFocused(true);
         if (typeof onFocus === 'function') onFocus(e);
-    }
-
-    const handleBlur = (e) => {
-        setFocused(false);
-        if (typeof onBlur === 'function') onBlur(e);
     }
 
     return (
@@ -23,7 +18,6 @@ const Input = ({ onFocus, onBlur, onChange, value }) => {
                     value={value}
                     onChange={e => onChange(e.target.value)}
                     onFocus={handleFocus}
-                    onBlur={handleBlur}
                     className={`
                                 border-2 text-white border-white rounded-full text-2xl
                                 placeholder:text-[#5E5E5E] py-3 pl-14 w-full bg-transparent
