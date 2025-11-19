@@ -4,6 +4,7 @@ import lightMode from '../assets/light_mode.png'
 import ProConnectTexto from '../assets/ProConnectTexto.png'
 import ProConnectLogo from '../assets/ProConnectLogo.png'
 import SearchWait from "../components/SearchWait";
+import Card from "../components/Card";
 
 const Home = () => {
     const [search, setSearch] = useState('')
@@ -27,6 +28,7 @@ const Home = () => {
             <img className={`absolute bottom-6 md:top-[-60px] mx-auto w-[286px] ${isFocused ? 'opacity-0 -translate-y-4 scale-75' : 'opacity-100 translate-y-0'}`} src={ProConnectLogo} alt="Logotipo Pro Connect"/>
 
             {isFocused && <SearchWait />}
+
         </div>
     )
 }
