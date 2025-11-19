@@ -14,12 +14,12 @@ const SearchWait = () => {
                 rounded-tr-[115px]
                 flex flex-col justify-center text-center
                 shadow-roxo
-                transition-all duration-700 ease-out transform
-                ${show ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"}
+                transition-all duration-700 ease-out transform md:h-[364px] md:w-[700px] lg:w-[980px] md:px-20 mt-20
+                ${show ? "block translate-y-0" : "hidden translate-y-4"}
             `}
         >
-            <h2 className="text-white text-start text-[40px] leading-[3.5rem]">
-                Busque <span className="block md:inline">pelos</span> <strong className="text-[var(--roxo)]">melhores profissionais</strong>
+            <h2 className=" text-white text-start text-[40px] md:text-[75px] leading-[3.5rem] md:leading-[6rem]">
+                Busque <span className="block md:inline font-normal">pelos</span> <strong className="font-medium text-[var(--roxo)]">melhores profissionais</strong>
             </h2>
         </div>
     );
