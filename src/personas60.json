@@ -1,0 +1,3182 @@
+[
+  {
+    "id": 1,
+    "nome": "Yasmin Lima",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Igor Castro",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Organização",
+      "Resiliência",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Felipe Barbosa",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Patrícia Barbosa",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Thiago Prado",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Resiliência",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Sabrina Castro",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Organização",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Thiago Oliveira",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Elaine Alves",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Helena Santos",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Ana Costa",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Yasmin Castro",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Resiliência",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Sabrina Barbosa",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Resiliência",
+      "Proatividade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "João Lima",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Organização",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "William Correia",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Liderança",
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Kleber Ferreira",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Liderança",
+      "Organização",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Marcelo Oliveira",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Organização",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Zeca Mendes",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Gabriel Mendes",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "João Campos",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Liderança",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Gabriel Tavares",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Organização",
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Igor Ribeiro",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Liderança",
+      "Organização",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Nathalia Correia",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Gabriel Campos",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Resiliência",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Felipe Campos",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Proatividade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Julia Martins",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Otávio Castro",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Resiliência",
+      "Organização",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Mariana Lima",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Resiliência",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Daniel Martins",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Felipe Freitas",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Felipe Nunes",
+    "foto": "/mnt/data/A_collection_of_60_portrait_headshot_photographs_a.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Thiago Costa",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Campinas/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Liderança",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Julia Prado",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Organização",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Daniel Correia",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Resiliência",
+      "Pensamento crítico",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Kleber Mendes",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "William Mendes",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Elaine Souza",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Elaine Ferreira",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Resiliência",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Otávio Lima",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Organização",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Lucas Martins",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Resiliência",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Otávio Oliveira",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Organização",
+      "Liderança",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Felipe Costa",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Sabrina Barbosa",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Proatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Kleber Souza",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Pensamento crítico",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Gabriel Mendes",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Resiliência",
+      "Pensamento crítico",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Igor Oliveira",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Helena Alves",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Elaine Correia",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Liderança",
+      "Resiliência",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Larissa Correia",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Organização",
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Mariana Prado",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Organização",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Thiago Tavares",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Patrícia Ribeiro",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Organização",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Patrícia Barbosa",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Resiliência",
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Otávio Ribeiro",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Rafael Alves",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Julia Campos",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Liderança",
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Ana Prado",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Resiliência",
+      "Trabalho em equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Igor Alves",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Organização",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Julia Santos",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Comunicação",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Larissa Tavares",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Zeca Lima",
+    "foto": "/mnt/data/A_collection_of_60_headshot_profile_photos_is_arra.png",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor focado em soluções eficientes e escaláveis.",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "hardskills": [
+      "Python",
+      "SQL"
+    ],
+    "softskills": [
+      "Proatividade",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento e manutenção de sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo/projeto",
+        "descricao": "Ferramenta de apoio educacional."
+      }
+    ],
+    "certificados": [
+      "AWS Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areasInteresses": [
+      "Educação"
+    ]
+  }
+]

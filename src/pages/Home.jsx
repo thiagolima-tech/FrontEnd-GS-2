@@ -16,10 +16,13 @@ const Home = () => {
     return (
         <div style={lightModeOn ? { background: "linear-gradient(180deg, #FFFFFF 32%, #DFCCFF 100%)" } : undefined} className={`relative gradient-dark w-full min-h-screen flex flex-col justify-center transition-all duration-200 items-center`}>
 
+            {/* IMG DO LOGOTIPO  */}
             <img onClick={() => setIsFocused(false)} className={`z-20 absolute top-5 md:left-25 lg:left-40 md:top-15 ${isFocused ? 'block translate-y-0' : 'hidden -translate-y-4 scale-75'}`} src={ProConnectTexto} alt="Logotipo Pro Connect" />
 
+            {/* ICONES DE LIGH E DARK MODE  */}
             <img id="lightMode" onClick={() => setLightModeOn(currentState => !currentState)} className="absolute top-8 right-8 md:top-15 md:right-15 cursor-pointer z-90" src={lightModeOn ? darkMode : lightMode} alt={lightModeOn ? "darkMode" : "lightMode"} />
 
+            {/* TITULO  */}
             <h1 className={`transform font-raleway leading-tight w-[311px] md:w-[765px] text-center ${lightModeOn ? "text-[#464646]" : "text-white"} text-[40px] md:text-8xl transition-all duration-200 ease-in-out ${isFocused ? 'hidden -translate-y-4 scale-75' : 'block translate-y-0'}`}>
                 Veja o futuro dos <span className="font-medium text-roxo" style={{ color: 'var(--roxo)' }}>profissionais</span>
             </h1>
@@ -44,6 +47,8 @@ const Home = () => {
                 />
             }
             {isFocused && <img className="absolute w-70 md:bottom-0 md:right-8 lg:right-15 mx-auto bottom-0 opacity-35 md:opacity-100" src={iconeLogo} alt="Icone Pro Connect" />}
+
+            <Card />
 
         </div>
     )
