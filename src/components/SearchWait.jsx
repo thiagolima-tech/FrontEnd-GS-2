@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const SearchWait = () => {
+const SearchWait = ({ lightModeOn}) => {
     const [show, setShow] = useState(false);
 
     useEffect(() => {
@@ -18,7 +18,7 @@ const SearchWait = () => {
                 ${show ? "block translate-y-0" : "hidden translate-y-4"}
             `}
         >
-            <h2 className=" text-white text-start text-[40px] md:text-[75px] leading-[3.5rem] md:leading-[6rem]">
+            <h2 className={`${lightModeOn ? "text-[#464646]" : "text-white"} text-start text-[40px] md:text-[75px] leading-[3.5rem] md:leading-[6rem]`}>
                 Busque <span className="block md:inline font-normal">pelos</span> <strong className="font-medium text-[var(--roxo)]">melhores profissionais</strong>
             </h2>
         </div>
