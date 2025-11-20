@@ -42,14 +42,14 @@ const Home = () => {
             </div>
             <img className={`absolute bottom-6 md:top-[-60px] mx-auto w-[286px] ${isFocused ? 'hidden -translate-y-4 scale-75' : 'block translate-y-0'}`} src={ProConnectLogo} alt="Logotipo Pro Connect" />
 
-            {isFocused &&
+            {isFocused && search == "" &&
                 <SearchWait
                     lightModeOn={lightModeOn}
                 />
             }
             {isFocused && <img className="absolute w-70 md:bottom-0 md:right-8 lg:right-15 mx-auto bottom-0 opacity-35 md:opacity-100" src={iconeLogo} alt="Icone Pro Connect" />}
 
-            <div className="mt-10 w-full flex justify-center">
+            {search != "" && <div className="mt-10 w-full flex justify-center">
                 <div className="w-[90%] md:w-[80%]">
                     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-6">
                         { (personas || [])
@@ -62,7 +62,7 @@ const Home = () => {
                     </div>
                 </div>
             </div>
-
+            }
         </div>
     )
 }
