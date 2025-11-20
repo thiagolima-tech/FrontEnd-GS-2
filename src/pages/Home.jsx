@@ -51,11 +51,13 @@ const Home = () => {
 
             <div className="mt-10 w-full flex justify-center">
                 <div className="w-[90%] md:w-[80%]">
-                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-6">
                         { (personas || [])
                             .filter(p => !search || String(p.nome || p.name || '').toLowerCase().includes(search.toLowerCase()))
                             .map(p => (
-                                <Card key={p.id || p.nome} data={p} lightModeOn={lightModeOn} />
+                                <div className="w-full flex justify-center">
+                                    <Card key={p.id || p.nome} data={p} lightModeOn={lightModeOn} />
+                                </div>
                             ))}
                     </div>
                 </div>
