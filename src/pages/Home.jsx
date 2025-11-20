@@ -34,7 +34,6 @@ const Home = () => {
                         value={search}
                         onChange={setSearch}
                         onFocus={() => setIsFocused(true)}
-                        onBlur={() => setIsFocused(false)}
                         lightModeOn={lightModeOn}
                     />
                     <p className={`underline underline-offset-[3px] md:mt-3 text-[16px] ${lightModeOn ? "text-[#464646]" : "text-white"} transform transition-all duration-300 ease-out text-center `}>Mostrar todos os resultados</p>
@@ -49,9 +48,9 @@ const Home = () => {
             }
             {isFocused && <img className="absolute w-70 md:bottom-0 md:right-8 lg:right-15 mx-auto bottom-0 opacity-35 md:opacity-100" src={iconeLogo} alt="Icone Pro Connect" />}
 
-            {search != "" && <div className="mt-10 w-full flex justify-center">
+            {search != "" && <div className="mt-10 w-full flex justify-center mt-[55%] md:mt-[15%]">
                 <div className="w-[90%] md:w-[80%]">
-                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-6">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6">
                         { (personas || [])
                             .filter(p => !search || String(p.nome || p.name || '').toLowerCase().includes(search.toLowerCase()))
                             .map(p => (

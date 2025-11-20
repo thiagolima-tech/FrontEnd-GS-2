@@ -3,7 +3,7 @@ import iconSearchPreto from '../assets/iconSearchPreto.svg';
 import iconSearchBranco from '../assets/iconSearchBranco.svg';
 
 
-const Input = ({ onFocus, onBlur, onChange, value, lightModeOn }) => {
+const Input = ({ onFocus, onChange, value, lightModeOn }) => {
     const [focused, setFocused] = useState(false);
 
     const handleFocus = (e) => {
@@ -29,7 +29,6 @@ const Input = ({ onFocus, onBlur, onChange, value, lightModeOn }) => {
                     value={value}
                     onChange={e => onChange(e.target.value)}
                     onFocus={handleFocus}
-                    onBlur={handleBlur}
                     className={`border-2 ${lightModeOn ? "text-black border-black" : "text-white border-white"} rounded-full text-2xl placeholder:text-[#5E5E5E] py-3 pl-14 w-full bg-transparent focus:outline-none focus:ring-0 focus-visible:outline-none ${focused ? 'drop-shadow-[0_0_50px_#ffffff]' : ''}`}
                     type="text"
                     placeholder="Buscar"
