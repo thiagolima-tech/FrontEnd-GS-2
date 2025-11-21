@@ -41,3 +41,13 @@ h1, h2 {
 p {
     font-family: var(--Poppins);
 }
+
+.custom-scroll::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* remove a barra */
+}
+
+.custom-scroll {
+  -ms-overflow-style: none; /* remove no Edge */
+  scrollbar-width: none;    /* remove no Firefox */
+}
