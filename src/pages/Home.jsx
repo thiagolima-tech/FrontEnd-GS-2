@@ -209,7 +209,25 @@ const Home = () => {
                 isOpen={modalIsOpen}
                 onRequestClose={closeModal}
                 overlayClassName="fixed inset-0 bg-black/70 flex items-center justify-center z-50"
-                className="relative w-[95%] md:w-[80%] lg:w-[70%] max-w-5xl bg-[#140C2A] text-white rounded-3xl p-6 md:p-10 outline-none shadow-2xl max-h-[90vh] overflow-y-auto custom-scroll"
+                style={{
+                    overlay: {
+                    backgroundColor: lightModeOn ? "rgba(255,255,255,0.7)" : "rgba(0,0,0,0.7)",
+                    zIndex: 50,
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "center",
+                },
+                content: {
+                    backgroundColor: lightModeOn ? "#E7E7E7" : "#140C2A",
+                    border: "none",
+                    borderRadius: "24px",
+                    padding: "40px",
+                    inset: "auto",        // impede bug de responsividade
+                    maxHeight: "90vh",
+                    overflowY: "auto",
+                }
+                }}
+                className={`relative w-[95%] md:w-[80%] lg:w-[70%] max-w-5xl text-white rounded-3xl p-6 md:p-10 outline-none shadow-2xl max-h-[90vh] overflow-y-auto custom-scroll`}
                 contentLabel="Perfil do profissional"
             >
                 <button
