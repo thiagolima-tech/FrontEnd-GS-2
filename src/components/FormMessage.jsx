@@ -38,17 +38,15 @@ const FormMessage = ({ nameCard, onClose }) => {
     }
 
     return (
-        <div className="w-full flex justify-center">
+        <div className="fixed inset-0 bg-black/40 backdrop-blur-sm flex justify-center items-center z-50 p-4">
+            <div className="bg-[#0E0E21] w-full max-w-md p-6 pt-16 rounded-3xl border border-white/10 shadow-lg relative">
 
-            {/* CARD DO FORM */}
-            <div className="bg-[#0E0E21] w-full max-w-md p-6 rounded-3xl border border-white/10 shadow-lg relative">
+                <button
+                    onClick={onClose}
+                    className="absolute top-4 left-4 text-xl md:text-2xl px-3 py-1 rounded-full bg-white/10 hover:bg-white/20 transition"
+                >←</button>
 
-                {/* Botão voltar */}
-                <button onClick={onClose} className="text-white mb-4">
-                    ←
-                </button>
-
-                <h2 className="text-center text-white mb-6 font-semibold">
+                <h2 className="text-center text-white mb-6 font-semibold text-lg">
                     ENVIE UMA MENSAGEM PARA {nameCard.toUpperCase()}
                 </h2>
 
@@ -60,6 +58,7 @@ const FormMessage = ({ nameCard, onClose }) => {
                         value={nameUser}
                         onChange={(e) => setNameUser(e.target.value)}
                     />
+
                     <input
                         type="email"
                         placeholder="Email *"
@@ -67,6 +66,7 @@ const FormMessage = ({ nameCard, onClose }) => {
                         value={emailUser}
                         onChange={(e) => setEmailUser(e.target.value)}
                     />
+
                     <textarea
                         placeholder="Mensagem *"
                         className="bg-transparent border border-white/20 rounded-xl px-4 py-3 text-white h-32"
@@ -85,10 +85,9 @@ const FormMessage = ({ nameCard, onClose }) => {
 
             {/* MODAL DE SUCESSO */}
             {success && (
-                <div className="absolute inset-0 flex items-center justify-center bg-black/50 backdrop-blur-sm">
+                <div className="absolute inset-0 flex items-center justify-center bg-black/60 backdrop-blur-sm">
                     <div className="bg-white w-72 p-6 rounded-3xl shadow-xl text-center">
-                        
-                        {/* Ícone opcional */}
+
                         <div className="text-4xl mb-3">✔️</div>
 
                         <p className="text-black text-lg font-medium mb-4">
