@@ -14,6 +14,7 @@ import iconeEmailLight from '../assets/iconeEmailLightMode.png';
 import iconeRecomendar from '../assets/iconeRecomendar.png';
 import estrelaCinza from '../assets/estrelaCinza.png';
 import estrelaAmarela from '../assets/estrelaAmarela.png';
+import FormMessage from "../components/FormMessage";
 
 // se ainda não tiver feito em outro lugar, você pode chamar:
 // Modal.setAppElement('#root') no index.js/main.jsx

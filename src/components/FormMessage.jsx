@@ -1,45 +1,70 @@
 import { useState } from "react"
 import emailjs from '@emailjs/browser'
 
-const FormMessage = (nameCard) => {
+const FormMessage = ({nameCard}) => {
     const [nameUser, setNameUser] = useState('')
     const [emailUser, setEmailUser] = useState('')
     const [messageUser, setMessageUser] = useState('')
 
-    function sendEmail(e){
+    function sendEmail(e) {
         e.preventDefault()
-        if (nameUser === "" || emailUser === "" || messageUser === ""){
+
+        if (!nameUser || !emailUser || !messageUser){
             alert("Preencha todos os campos")
             return
         }
-        
+
         const templateParams = {
             name: nameUser,
             message: messageUser,
             email: emailUser
         }
 
-        emailjs.send('service_jrx9ocp', 'template_5w7pzol', templateParams, tWSIINXoK-pvLtB50)
-        .then((response) => {
-            alert('Email Enviado') 
-            setEmailUser('')
-            setMessageUser('')
-            setNameUser('')
-        },(err) => {console.log(err)})
+        emailjs
+            .send(
+                'service_jrx9ocp',
+                'template_5w7pzol',
+                templateParams,
+                'tWSIINXoK-pvLtB50'
+            )
+            .then(() => {
+                alert('Email enviado!')
+                setNameUser('')
+                setEmailUser('')
+                setMessageUser('')
+            })
+            .catch((err) => console.log(err))
     }
 
     return (
         <div>
             <h2>Mande sua mensagem para {nameCard} </h2>
             <form onSubmit={sendEmail}>
-                <label htmlFor="name"></label>
-                <input type="text" id="name" placeholder="Digite seu nome" onChange={setNameUser} value={nameUser}/> 
+                
+                <input 
+                    type="text"
+                    id="name"
+                    placeholder="Digite seu nome"
+                    onChange={(e) => setNameUser(e.target.value)}
+                    value={nameUser}
+                />
 
-                <label htmlFor="email"></label>
-                <input type="email" id="email" placeholder="Digite seu email" onChange={setEmailUser} value={emailUser}/>
+                <input 
+                    type="email"
+                    id="email"
+                    placeholder="Digite seu email"
+                    onChange={(e) => setEmailUser(e.target.value)}
+                    value={emailUser}
+                />
 
-                <label htmlFor="message"></label>
-                <textarea id="message" placeholder="Digite sua mensagem" onChange={setMessageUser} value={messageUser}/>
+                <textarea
+                    id="message"
+                    placeholder="Digite sua mensagem"
+                    onChange={(e) => setMessageUser(e.target.value)}
+                    value={messageUser}
+                />
+
+                <button type="submit">Enviar</button>
             </form>
         </div>
     )
