@@ -54,11 +54,11 @@ const Card = ({handleMessage, data = {}, lightModeOn = false, isRecommended = fa
                     ))}
                 </p>
 
-                <div className="grid grid-cols-2 mt-8 gap-2 md:gap-4 w-full text-center md:text-left">
+                <div className="grid grid-cols-2 mt-8 gap-2 md:gap-2 w-full text-center md:text-left">
 
                     {/* Botão Mensagem */}
                     <button
-                        className={`text-[14px] md:text-[16px] border rounded-full p-2 px-5 flex items-center gap-2 justify-center ${lightModeOn ? 'text-[#7C4DFF] border-[#7C4DFF]' : 'text-[#9974FF] border-[#9974FF]'}`}
+                        className={`text-[14px] md:text-[16px] border rounded-full p-2 px-5 flex items-center gap-1 justify-center ${lightModeOn ? 'text-[#7C4DFF] border-[#7C4DFF]' : 'text-[#9974FF] border-[#9974FF]'}`}
                         onClick={handleMessage}
                     >
                         <img src={lightModeOn ? iconeEmailLight : iconeEmailDark} alt="email" className="hidden md:block w-5 h-5" />
@@ -67,7 +67,7 @@ const Card = ({handleMessage, data = {}, lightModeOn = false, isRecommended = fa
 
                     {/* Botão Recomendar */}
                     <button
-                        className="text-[14px] md:text-[16px] rounded-full p-2 px-5 flex items-center gap-2 justify-center 
+                        className="text-[14px] md:text-[16px] rounded-full p-2 px-5 flex items-center gap-1 justify-center 
                         bg-[#7C4DFF] text-white"
                         onClick={(e) => {
                             e.stopPropagation();
