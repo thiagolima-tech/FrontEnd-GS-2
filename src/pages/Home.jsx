@@ -29,6 +29,8 @@ const Home = () => {
     const [modalIsOpen, setIsOpen] = useState(false);
     const [selectedPersona, setSelectedPersona] = useState(null);
 
+    const [showForm, setShowForm] = useState(false)
+
     const openModal = (persona) => {
         setSelectedPersona(persona);
         setIsOpen(true);
@@ -152,6 +154,7 @@ const Home = () => {
                                                 lightModeOn={lightModeOn}
                                                 isRecommended={recommended[p.id] || false}
                                                 onOpenModal={() => openModal(p)}
+                                                handleMessage={() => setShowForm(true)}
                                                 onToggleRecommend={() => {
                                                     setRecommended(prev => ({
                                                         ...prev,
@@ -349,10 +352,22 @@ const Home = () => {
 
                         {/* botões do rodapé */}
                         <div className="flex flex-col md:flex-row justify-end gap-3 md:gap-4 mt-2">
-                            <button className="w-full md:w-auto px-6 py-3 rounded-full border border-purple-400/70 text-sm md:text-base hover:bg-white/5 transition flex items-center justify-center gap-2">
+                            <button 
+                            onClick={() => setShowForm(true)} 
+                            className="w-full md:w-auto px-6 py-3 rounded-full border border-purple-400/70 text-sm md:text-base hover:bg-white/5 transition flex items-center justify-center gap-2"
+                            >
                                 <img src={iconeEmailDark} alt="Icone de mensagem" />
                                 <span className="text-[#9974FF]">Mensagem</span>
                             </button>
+                        {showForm && (
+                        <div className="fixed inset-0 z-[9999] flex items-center justify-center">
+                            <FormMessage 
+                            nameCard={selectedPersona.nome} 
+                            onClose={() => setShowForm(false)} 
+                            />
+                        </div>
+                        )}
+
 
                             <button
                                 className="w-full md:w-auto px-6 py-3 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-sm md:text-base font-medium hover:opacity-90 transition flex items-center justify-center gap-2"

@@ -5,7 +5,7 @@ import placeholderImg from '../assets/ProConnectLogo.png';
 import estrelaCinza from '../assets/estrelaCinza.png';
 import estrelaAmarela from '../assets/estrelaAmarela.png';
 
-const Card = ({ data = {}, lightModeOn = false, isRecommended = false, onOpenModal, onToggleRecommend }) => {
+const Card = ({handleMessage, data = {}, lightModeOn = false, isRecommended = false, onOpenModal, onToggleRecommend }) => {
     const personaImg = data.foto || data.img || '';
     const personaName = data.nome || data.name || '';
     const personaJob = data.cargo || data.job || '';
@@ -59,10 +59,7 @@ const Card = ({ data = {}, lightModeOn = false, isRecommended = false, onOpenMod
                     {/* Botão Mensagem */}
                     <button
                         className={`text-[14px] md:text-[16px] border rounded-full p-2 px-5 flex items-center gap-2 justify-center ${lightModeOn ? 'text-[#7C4DFF] border-[#7C4DFF]' : 'text-[#9974FF] border-[#9974FF]'}`}
-                        onClick={(e) => {
-                            e.stopPropagation();
-                            console.log('Mensagem clicada para', personaName);
-                        }}
+                        onClick={handleMessage}
                     >
                         <img src={lightModeOn ? iconeEmailLight : iconeEmailDark} alt="email" className="hidden md:block w-5 h-5" />
                         Mensagem
