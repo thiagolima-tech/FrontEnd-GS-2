@@ -22,13 +22,9 @@ const Home = () => {
     const [lightModeOn, setLightModeOn] = useState(false);
 
     const [recommended, setRecommended] = useState({});
-
     const [modalIsOpen, setIsOpen] = useState(false);
     const [selectedPersona, setSelectedPersona] = useState(null);
-
     const [showForm, setShowForm] = useState(false);
-
-    // 🔥 NOVO ESTADO DO SHOW ALL RESULTS
     const [showAllResults, setShowAllResults] = useState(false);
 
     const openModal = (persona) => {
@@ -132,7 +128,7 @@ const Home = () => {
                         }}
                         onFocus={() => {
                             setIsFocused(true);
-                            setShowAllResults(false); // 🔥 fechar show all ao clicar na barra
+                            setShowAllResults(false); 
                         }}
                         lightModeOn={lightModeOn}
                     />
@@ -208,7 +204,7 @@ const Home = () => {
             <Modal
                 isOpen={modalIsOpen}
                 onRequestClose={closeModal}
-                overlayClassName="fixed inset-0 bg-black/70 flex items-center justify-center z-50"
+                overlayClassName={`fixed inset-0 bg-black/70 flex items-center justify-center z-50`}
                 style={{
                     overlay: {
                     backgroundColor: lightModeOn ? "rgba(255,255,255,0.7)" : "rgba(0,0,0,0.7)",
@@ -232,7 +228,7 @@ const Home = () => {
             >
                 <button
                     onClick={closeModal}
-                    className="absolute top-4 right-4 text-sm md:text-base px-2 py-1 rounded-full bg-white/10 hover:bg-white/20 transition"
+                    className={`absolute top-4 right-4 text-sm md:text-base px-2 py-1 rounded-full transition ${lightModeOn ? 'text-black bg-gray-300/80 hover:bg-gray-800/30' : 'text-white bg-white/10 hover:bg-white/20'}`}
                 >
                     ✕
                 </button>
@@ -260,23 +256,24 @@ const Home = () => {
                                     />
                                 </div>
 
-                                <div className="flex-1">
-                                    <h2 className="text-2xl md:text-3xl font-semibold">
+                                <div className={`flex-1 ${lightModeOn ? 'text-[#464646]' : 'text-white'}`}>
+                                    <h2 className={`text-2xl md:text-3xl font-semibold ${lightModeOn ? 'text-[#464646]' : 'text-white'}`}>
                                         {selectedPersona.nome}
                                     </h2>
-                                    <p className="mt-1 text-sm md:text-base text-purple-200">
+                                    <p className="mt-1 text-sm md:text-base">
                                         {selectedPersona.cargo} – {selectedPersona.area}
                                     </p>
-                                    <p className="text-xs md:text-sm text-gray-300 mt-1">
+                                    <p className="text-xs md:text-sm mt-1">
                                         {selectedPersona.localizacao}
                                     </p>
 
                                     {/* TAGS */}
-                                    <div className="flex flex-wrap gap-2 mt-4">
+                                    <div className="flex flex-wrap gap-2 mt-4 text-white">
                                         {(selectedPersona.hardskills || []).map((skill, idx) => (
                                             <span
                                                 key={`hard-${idx}`}
-                                                className="px-3 py-1 rounded-full text-xs md:text-sm bg-purple-700/70"
+                                                className={`px-3 py-1 rounded-full text-xs md:text-sm
+                                                    ${lightModeOn ? 'bg-[#3104FA]/70' : 'bg-purple-700/70'}`}
                                             >
                                                 {skill}
                                             </span>
@@ -304,16 +301,16 @@ const Home = () => {
                             </div>
 
                             {/* RESUMO */}
-                            <div className="space-y-3 text-sm md:text-base">
+                            <div className={`space-y-3 text-sm md:text-base ${lightModeOn ? 'text-[#464646]' : 'text-white'}`}>
                                 <div>
                                     <h3 className="font-semibold">Resumo:</h3>
-                                    <p className="text-gray-200">{selectedPersona.resumo}</p>
+                                    <p className="">{selectedPersona.resumo}</p>
                                 </div>
 
                                 {selectedPersona.areasInteresses?.length > 0 && (
-                                    <div>
+                                    <div className={` ${lightModeOn ? 'text-[#464646]' : 'text-white'}`}>
                                         <h3 className="font-semibold">Áreas de Interesse:</h3>
-                                        <p className="text-gray-200">
+                                        <p>
                                             {selectedPersona.areasInteresses.join(", ")}
                                         </p>
                                     </div>
@@ -321,18 +318,18 @@ const Home = () => {
                             </div>
 
                             {/* COLUNAS */}
-                            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6 text-sm md:text-base">
+                            <div className={`grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6 text-sm md:text-base ${lightModeOn ? 'text-[#464646]' : 'text-white'}`}>
 
                                 {/* EXPERIÊNCIA */}
-                                <div className="bg-[#1C1235] rounded-2xl p-4 md:p-5">
+                                <div className={`shadow-2xl rounded-2xl p-4 md:p-5 ${lightModeOn ? 'bg-white' : 'bg-[#1C1235]'}`}>
                                     <h4 className="font-semibold mb-3">EXPERIÊNCIA</h4>
-                                    <ul className="space-y-2 text-gray-200">
+                                    <ul className="space-y-2">
                                         {(selectedPersona.experiencias || []).map((exp, idx) => (
                                             <li key={idx}>
                                                 <p className="font-medium">
                                                     {exp.cargo} – {exp.empresa}
                                                 </p>
-                                                <p className="text-xs text-gray-300">
+                                                <p className="text-xs">
                                                     {exp.inicio} até {exp.fim}
                                                 </p>
                                                 <p className="text-xs mt-1">{exp.descricao}</p>
@@ -342,14 +339,14 @@ const Home = () => {
                                 </div>
 
                                 {/* FORMAÇÃO */}
-                                <div className="bg-[#1C1235] rounded-2xl p-4 md:p-5">
+                                <div className={`shadow-2xl rounded-2xl p-4 md:p-5 ${lightModeOn ? 'bg-white' : 'bg-[#1C1235]'}`}>
                                     <h4 className="font-semibold mb-3">FORMAÇÕES E CERTIFICADOS</h4>
 
-                                    <ul className="space-y-2 text-gray-200 mb-3">
+                                    <ul className="space-y-2  mb-3">
                                         {(selectedPersona.formacao || []).map((form, idx) => (
                                             <li key={idx}>
                                                 <p className="font-medium">{form.curso}</p>
-                                                <p className="text-xs text-gray-300">
+                                                <p className="text-xs">
                                                     {form.instituicao} · {form.ano}
                                                 </p>
                                             </li>
@@ -361,7 +358,7 @@ const Home = () => {
                                             <p className="font-semibold text-xs mb-1">
                                                 Certificados:
                                             </p>
-                                            <ul className="space-y-1 text-gray-200 list-disc list-inside">
+                                            <ul className="space-y-1  list-disc list-inside">
                                                 {selectedPersona.certificados.map((cert, idx) => (
                                                     <li key={idx}>{cert}</li>
                                                 ))}
@@ -371,9 +368,9 @@ const Home = () => {
                                 </div>
 
                                 {/* PROJETOS */}
-                                <div className="bg-[#1C1235] rounded-2xl p-4 md:p-5">
+                                <div className={`shadow-2xl rounded-2xl p-4 md:p-5 ${lightModeOn ? 'bg-white' : 'bg-[#1C1235]'}`}>
                                     <h4 className="font-semibold mb-3">PROJETOS</h4>
-                                    <ul className="space-y-2 text-gray-200">
+                                    <ul className="space-y-2 ">
                                         {(selectedPersona.projetos || []).map((proj, idx) => (
                                             <li key={idx}>
                                                 {proj.link ? (
@@ -399,10 +396,10 @@ const Home = () => {
                             <div className="flex flex-col md:flex-row justify-end gap-3 md:gap-4 mt-2">
                                 <button
                                     onClick={() => setShowForm(true)}
-                                    className="w-full md:w-auto px-6 py-3 rounded-full border border-purple-400/70 text-sm md:text-base hover:bg-white/5 transition flex items-center justify-center gap-2"
+                                    className={`w-full md:w-auto px-6 py-3 rounded-full border text-sm md:text-base hover:bg-white/5 transition flex items-center justify-center gap-2 ${lightModeOn ? 'text-[#3104FA] border-[#3104FA]' : 'border-purple-400/70 border-purple-400 text-[#9974FF]'}`}
                                 >
-                                    <img src={iconeEmailDark} alt="msg" />
-                                    <span className="text-[#9974FF]">Mensagem</span>
+                                    <img src={lightModeOn ? iconeEmailLight : iconeEmailDark} className="w-7 h-7" alt="msg" />
+                                    <span className="">Mensagem</span>
                                 </button>
 
                                 {showForm && (
