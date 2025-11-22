@@ -40,9 +40,37 @@ O sistema permite **pesquisar perfis**, visualizar **cards**, **enviar mensagens
 
 ---
 
+## 🛠️ Instalação e Execução do Projeto
+
+Siga os passos abaixo para rodar o projeto localmente.
+
+---
+
+### **1️⃣ Clone o repositório**
+
+```bash
+git clone https://github.com/thiagolima-tech/FrontEnd-GS-2.git
+
+### **2️⃣ Acesse a pasta do projeto**
+
+```bash
+cd FrontEnd-GS-2
+
+### **3️⃣ Instale as dependências**
+
+```bash
+npm install
+
+### **5️⃣ Rode o projeto**
+
+```bash
+npm run dev
+
 ---
 
 ## 🛠️ Acesse aqui: [Link para a ProConnect](https://front-end-gs-2-delta.vercel.app/)
+
+## 🛠️ Acesse aqui o repositório: [Link para o repositório da ProConnect](https://github.com/thiagolima-tech/FrontEnd-GS-2.git)
 
 # Integrantes
 Matheus Vasques RM: 563309 
