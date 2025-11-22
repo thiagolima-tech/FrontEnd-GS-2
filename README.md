@@ -42,7 +42,7 @@ O sistema permite **pesquisar perfis**, visualizar **cards**, **enviar mensagens
 
 ---
 
-## 🛠️ Acesse aqui: 
+## 🛠️ Acesse aqui: [Link para a ProConnect](https://front-end-gs-2-delta.vercel.app/)
 
 # Integrantes
 Matheus Vasques RM: 563309 
