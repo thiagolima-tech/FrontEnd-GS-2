@@ -48,22 +48,18 @@ Siga os passos abaixo para rodar o projeto localmente.
 
 ### **1️⃣ Clone o repositório**
 
-```bash
 git clone https://github.com/thiagolima-tech/FrontEnd-GS-2.git
 
 ### **2️⃣ Acesse a pasta do projeto**
 
-```bash
 cd FrontEnd-GS-2
 
 ### **3️⃣ Instale as dependências**
 
-```bash
 npm install
 
 ### **5️⃣ Rode o projeto**
 
-```bash
 npm run dev
 
 ---
