@@ -1,16 +1,62 @@
-# React + Vite
+# **ProConnect – Plataforma de Conexão entre Profissionais**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ProConnect é uma plataforma desenvolvida em **React** com **TailwindCSS**, criada para facilitar a busca e conexão entre profissionais de diversas áreas.  
+O sistema permite **pesquisar perfis**, visualizar **cards**, **enviar mensagens** e **recomendar profissionais**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias Utilizadas
 
-## React Compiler
+- **React.js**
+- **TailwindCSS**
+- **JavaScript / TypeScript** (se aplicável)
+- **React Hooks**
+- **React Modal**
+- **JSON local / API mockada** (`personas60.json`)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🔍 Busca Inteligente
+- Filtro em tempo real por nome, cargo, skill ou localização.
+
+### 🧑‍💼 Cards de Profissionais
+- Foto, nome, área de atuação e localização
+- Acesso rápido ao perfil
+- Modal com detalhes completos
+
+### 💬 Enviar Mensagem
+- Modal dedicado com formulário
+- Experiência simples e direta
+
+### ⭐ Recomendar Profissional
+- Função para indicar profissionais para outras pessoas
+- Sistema intuitivo com ícones de destaque
+
+### 🌓 Modo Claro/Escuro
+- Alternância entre **Light Mode** e **Dark Mode**  
+- Ícones específicos para cada tema
+
+---
+
+---
+
+## 🛠️ Como Rodar o Projeto
+
+### 1. Clone o repositório
+```bash
+git clone https://github.com/thiagolima-tech/FrontEnd-GS-2
+npm install
+npm run dev
+http://localhost:5173
+
+```
+
+# Integrantes
+Matheus Vasques RM: 563309 
+Thiago Lima RM: 563416 
+Vitor Alcantara RM: 565885
+
+## 📁 Estrutura do Projeto
+
