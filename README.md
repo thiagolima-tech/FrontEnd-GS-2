@@ -42,16 +42,7 @@ O sistema permite **pesquisar perfis**, visualizar **cards**, **enviar mensagens
 
 ---
 
-## 🛠️ Como Rodar o Projeto
-
-### 1. Clone o repositório
-```bash
-git clone https://github.com/thiagolima-tech/FrontEnd-GS-2
-npm install
-npm run dev
-http://localhost:5173
-
-```
+## 🛠️ Acesse aqui: 
 
 # Integrantes
 Matheus Vasques RM: 563309 
