@@ -73,5 +73,4 @@ Matheus Vasques RM: 563309
 Thiago Lima RM: 563416 
 Vitor Alcantara RM: 565885
 
-## 📁 Estrutura do Projeto
 
