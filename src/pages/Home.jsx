@@ -109,7 +109,7 @@ const Home = () => {
                 }`}
             >
                 Veja o futuro dos{" "}
-                <span className="font-medium text-roxo">profissionais</span>
+                <span className="font-medium text-purple-600">profissionais</span>
             </h1>
 
             {/* INPUT */}
